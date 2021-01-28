@@ -5,9 +5,8 @@
 
 python -m venv 가상환경명
 
-Script\activate.bat
-
-Script\deactivate.bat
+Script\activate.bat  
+Script\deactivate.bat  
 pip 명령어 : search , install, uninstall, list, freeze, show
 pip install search simplejson , simple*
 pip install install simplejson
