@@ -23,11 +23,11 @@
 윈도우 : Script  
 맥 : bin
 
-#### 윈도우 
+#### 1. 윈도우 
 activate.bat : 가상환경 진입  
 deactivate.bat : 가상환경 해제
 
-#### 맥
+#### 2. 맥
 source ./activate : 가상환경 진입  
 source ./deactivate : 가상환경 해제
 
